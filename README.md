@@ -6,7 +6,7 @@
 * Using mostly defualt settings install windows 2022 server and windows 10 workstation
 
 ## Installing domain controller:
- 1. Use `SCongig` to :
+ 1. Use `SConfig` to :
  	- Change the hostname
  	- Change the IP address to static
  	- Change the DNS server to our own IP adderss
